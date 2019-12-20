@@ -1,0 +1,208 @@
+<div id="programs-right" class="col-md-8"><h3 class="results">Search Results</h3><div id="load-posts">        	<ul class="pq-dir-list" id="program-list">
+        	<li class="sponsored">
+			<div class="header-banner">SPONSORED LISTING</div>
+		<div class="pq-dir-list-item-content" data-hs-event-266200974="1">
+    	<div class="col-md-4 col-sm-3 col-xs-3  no-padding-left">
+        	                <a href="https://poetsandquants.com/specialized-master/emory-universitys-goizueta-business-school-ms-in-business-analytics/?pq-directory-type=specialized-master" target="_blank"><img src="https://poetsandquants.com/wp-content/uploads/sites/5/2017/03/featured_image-1-135x100.png" class="img-responsive wp-post-image" alt="Emory Goizueta Business School Profile Image"></a>
+                    </div>
+       <div class="col-md-8 col-sm-9 col-xs-9 no-padding-left">
+        				<div class="pq-dir-list-item-top">
+        		<h4><a href="https://poetsandquants.com/specialized-master/emory-universitys-goizueta-business-school-ms-in-business-analytics/?pq-directory-type=specialized-master" target="_blank">Emory University’s Goizueta Business School: MS in Business Analytics</a></h4>
+				       				<p class="pq-dir-list-item-location">
+       					Atlanta, Georgia       				</p>
+							</div>	
+        	<!--<p><strong>Program Type</strong>: Analytics &amp; Data Science</p>-->
+            <p class="tuition"><strong>Cost of Tuition</strong>: $70,296</p>
+			
+						
+						
+        </div><!-- /.pq-dir-list-item-right -->
+        <div class="clearfix"></div>
+	</div><!-- /.pq-dir-list-item-content -->
+</li>
+<li class="non-sponsored">
+		<div class="pq-dir-list-item-content">
+    	<div class="col-md-4 col-sm-3 col-xs-3  no-padding-left">
+        	                <a href="https://poetsandquants.com/specialized-master/temple-universitys-fox-school-of-business-ms-in-digital-innovation-in-marketing/?pq-directory-type=specialized-master" target="_blank"><img src="https://poetsandquants.com/wp-content/uploads/sites/5/2016/02/speakerman.jpg" class="img-responsive wp-post-image" alt="" srcset="https://poetsandquants.com/wp-content/uploads/sites/5/2016/02/speakerman.jpg 1024w, https://poetsandquants.com/wp-content/uploads/sites/5/2016/02/speakerman-300x225.jpg 300w, https://poetsandquants.com/wp-content/uploads/sites/5/2016/02/speakerman-768x576.jpg 768w, https://poetsandquants.com/wp-content/uploads/sites/5/2016/02/speakerman-80x60.jpg 80w, https://poetsandquants.com/wp-content/uploads/sites/5/2016/02/speakerman-125x94.jpg 125w, https://poetsandquants.com/wp-content/uploads/sites/5/2016/02/speakerman-150x113.jpg 150w, https://poetsandquants.com/wp-content/uploads/sites/5/2016/02/speakerman-333x250.jpg 333w" sizes="(max-width: 133px) 100vw, 133px"></a>
+                    </div>
+       <div class="col-md-8 col-sm-9 col-xs-9 no-padding-left">
+        				<div class="pq-dir-list-item-top">
+        		<h4><a href="https://poetsandquants.com/specialized-master/temple-universitys-fox-school-of-business-ms-in-digital-innovation-in-marketing/?pq-directory-type=specialized-master" target="_blank">Temple University’s Fox School of Business: MS in Digital Innovation in Marketing</a></h4>
+				       				<p class="pq-dir-list-item-location">
+       					Philadelphia, Pennsylvania       				</p>
+							</div>	
+        	<!--<p><strong>Program Type</strong>: Marketing</p>-->
+            <p class="tuition"><strong>Cost of Tuition</strong>: $30,312</p>
+			
+						
+						
+        </div><!-- /.pq-dir-list-item-right -->
+        <div class="clearfix"></div>
+	</div><!-- /.pq-dir-list-item-content -->
+</li>
+<li class="non-sponsored">
+		<div class="pq-dir-list-item-content">
+    	<div class="col-md-4 col-sm-3 col-xs-3  no-padding-left">
+        	                <a href="https://poetsandquants.com/specialized-master/georgetown-universitys-mcdonough-school-of-business-ms-in-management/?pq-directory-type=specialized-master" target="_blank"><img src="https://poetsandquants.com/wp-content/uploads/sites/5/2019/11/20190805_MiM_StudentLife_Hariri-1473-PandQ-135x100.jpg" class="img-responsive wp-post-image" alt=""></a>
+                    </div>
+       <div class="col-md-8 col-sm-9 col-xs-9 no-padding-left">
+        				<div class="pq-dir-list-item-top">
+        		<h4><a href="https://poetsandquants.com/specialized-master/georgetown-universitys-mcdonough-school-of-business-ms-in-management/?pq-directory-type=specialized-master" target="_blank">Georgetown University’s McDonough School of Business: MS in Management</a></h4>
+				       				<p class="pq-dir-list-item-location">
+       					 United States       				</p>
+							</div>	
+        	<!--<p><strong>Program Type</strong>: Innovation, Management, Technology</p>-->
+            <p class="tuition"><strong>Cost of Tuition</strong>: $55,000</p>
+			
+						
+						
+        </div><!-- /.pq-dir-list-item-right -->
+        <div class="clearfix"></div>
+	</div><!-- /.pq-dir-list-item-content -->
+</li>
+<li class="non-sponsored">
+		<div class="pq-dir-list-item-content">
+    	<div class="col-md-4 col-sm-3 col-xs-3  no-padding-left">
+        	                <a href="https://poetsandquants.com/specialized-master/university-cincinnatis-carl-h-lindner-college-business-ms-human-resources/?pq-directory-type=specialized-master" target="_blank"><img src="https://poetsandquants.com/wp-content/uploads/sites/5/2016/05/55e384c2b9b3b.image_.jpg" class="img-responsive wp-post-image" alt="" srcset="https://poetsandquants.com/wp-content/uploads/sites/5/2016/05/55e384c2b9b3b.image_.jpg 300w, https://poetsandquants.com/wp-content/uploads/sites/5/2016/05/55e384c2b9b3b.image_-90x60.jpg 90w, https://poetsandquants.com/wp-content/uploads/sites/5/2016/05/55e384c2b9b3b.image_-125x83.jpg 125w, https://poetsandquants.com/wp-content/uploads/sites/5/2016/05/55e384c2b9b3b.image_-150x100.jpg 150w, https://poetsandquants.com/wp-content/uploads/sites/5/2016/05/55e384c2b9b3b.image_-96x64.jpg 96w" sizes="(max-width: 135px) 100vw, 135px"></a>
+                    </div>
+       <div class="col-md-8 col-sm-9 col-xs-9 no-padding-left">
+        				<div class="pq-dir-list-item-top">
+        		<h4><a href="https://poetsandquants.com/specialized-master/university-cincinnatis-carl-h-lindner-college-business-ms-human-resources/?pq-directory-type=specialized-master" target="_blank">University of Cincinnati’s Carl H. Lindner College of Business: MA in Human Resources</a></h4>
+				       				<p class="pq-dir-list-item-location">
+       					Cincinnati, Ohio       				</p>
+							</div>	
+        	<!--<p><strong>Program Type</strong>: Human Resources</p>-->
+            <p class="tuition"><strong>Cost of Tuition</strong>: $19,280 In-State, $22,118 Out-of-State</p>
+			
+						
+						
+        </div><!-- /.pq-dir-list-item-right -->
+        <div class="clearfix"></div>
+	</div><!-- /.pq-dir-list-item-content -->
+</li>
+<li class="non-sponsored">
+		<div class="pq-dir-list-item-content">
+    	<div class="col-md-4 col-sm-3 col-xs-3  no-padding-left">
+        	                <a href="https://poetsandquants.com/specialized-master/university-california-san-diegos-rady-school-management-ms-business-analytics/?pq-directory-type=specialized-master" target="_blank"><img src="https://poetsandquants.com/wp-content/uploads/sites/5/2017/11/edits-135x100.jpg" class="img-responsive wp-post-image" alt=""></a>
+                    </div>
+       <div class="col-md-8 col-sm-9 col-xs-9 no-padding-left">
+        				<div class="pq-dir-list-item-top">
+        		<h4><a href="https://poetsandquants.com/specialized-master/university-california-san-diegos-rady-school-management-ms-business-analytics/?pq-directory-type=specialized-master" target="_blank">University of California San Diego’s Rady School of Management: MS in Business Analytics</a></h4>
+				       				<p class="pq-dir-list-item-location">
+       					La Jolla, California       				</p>
+							</div>	
+        	<!--<p><strong>Program Type</strong>: Finance</p>-->
+            <p class="tuition"><strong>Cost of Tuition</strong>: $56,250</p>
+			
+						
+						
+        </div><!-- /.pq-dir-list-item-right -->
+        <div class="clearfix"></div>
+	</div><!-- /.pq-dir-list-item-content -->
+</li>
+<li class="non-sponsored">
+		<div class="pq-dir-list-item-content">
+    	<div class="col-md-4 col-sm-3 col-xs-3  no-padding-left">
+        	                <a href="https://poetsandquants.com/specialized-master/raymond-a-masons-school-of-business-master-of-accounting/?pq-directory-type=specialized-master" target="_blank"><img src="https://poetsandquants.com/wp-content/uploads/sites/5/2016/11/MasonSchoolofBusiness.jpg" class="img-responsive wp-post-image" alt="" srcset="https://poetsandquants.com/wp-content/uploads/sites/5/2016/11/MasonSchoolofBusiness.jpg 650w, https://poetsandquants.com/wp-content/uploads/sites/5/2016/11/MasonSchoolofBusiness-300x205.jpg 300w, https://poetsandquants.com/wp-content/uploads/sites/5/2016/11/MasonSchoolofBusiness-88x60.jpg 88w, https://poetsandquants.com/wp-content/uploads/sites/5/2016/11/MasonSchoolofBusiness-125x85.jpg 125w, https://poetsandquants.com/wp-content/uploads/sites/5/2016/11/MasonSchoolofBusiness-150x102.jpg 150w, https://poetsandquants.com/wp-content/uploads/sites/5/2016/11/MasonSchoolofBusiness-96x64.jpg 96w, https://poetsandquants.com/wp-content/uploads/sites/5/2016/11/MasonSchoolofBusiness-366x250.jpg 366w" sizes="(max-width: 135px) 100vw, 135px"></a>
+                    </div>
+       <div class="col-md-8 col-sm-9 col-xs-9 no-padding-left">
+        				<div class="pq-dir-list-item-top">
+        		<h4><a href="https://poetsandquants.com/specialized-master/raymond-a-masons-school-of-business-master-of-accounting/?pq-directory-type=specialized-master" target="_blank">William and Mary’s Raymond A. Mason’s School of Business: Master of Accounting</a></h4>
+				       				<p class="pq-dir-list-item-location">
+       					Williamsburg, Virginia       				</p>
+							</div>	
+        	<!--<p><strong>Program Type</strong>: Accounting</p>-->
+            <p class="tuition"><strong>Cost of Tuition</strong>: $34,848 (In-State), $45,818 (Out-Of-State)</p>
+			
+						
+						
+        </div><!-- /.pq-dir-list-item-right -->
+        <div class="clearfix"></div>
+	</div><!-- /.pq-dir-list-item-content -->
+</li>
+<li class="non-sponsored">
+		<div class="pq-dir-list-item-content">
+    	<div class="col-md-4 col-sm-3 col-xs-3  no-padding-left">
+        	                <a href="https://poetsandquants.com/specialized-master/georgia-state-universitys-robinson-college-of-business-flexible-master-of-professional-accountancy/?pq-directory-type=specialized-master" target="_blank"><img src="https://poetsandquants.com/wp-content/uploads/sites/5/2017/07/300px-GSU2-135x100.jpg" class="img-responsive wp-post-image" alt="" srcset="https://poetsandquants.com/wp-content/uploads/sites/5/2017/07/300px-GSU2-135x100.jpg 135w, https://poetsandquants.com/wp-content/uploads/sites/5/2017/07/300px-GSU2.jpg 300w, https://poetsandquants.com/wp-content/uploads/sites/5/2017/07/300px-GSU2-80x60.jpg 80w, https://poetsandquants.com/wp-content/uploads/sites/5/2017/07/300px-GSU2-125x94.jpg 125w, https://poetsandquants.com/wp-content/uploads/sites/5/2017/07/300px-GSU2-160x120.jpg 160w" sizes="(max-width: 135px) 100vw, 135px"></a>
+                    </div>
+       <div class="col-md-8 col-sm-9 col-xs-9 no-padding-left">
+        				<div class="pq-dir-list-item-top">
+        		<h4><a href="https://poetsandquants.com/specialized-master/georgia-state-universitys-robinson-college-of-business-flexible-master-of-professional-accountancy/?pq-directory-type=specialized-master" target="_blank">Georgia State University’s Robinson College of Business: Flexible Master of Professional Accountancy</a></h4>
+				       				<p class="pq-dir-list-item-location">
+       					Atlanta, Georgia       				</p>
+							</div>	
+        	<!--<p><strong>Program Type</strong>: Accounting</p>-->
+            <p class="tuition"><strong>Cost of Tuition</strong>: $22,164</p>
+			
+						
+						
+        </div><!-- /.pq-dir-list-item-right -->
+        <div class="clearfix"></div>
+	</div><!-- /.pq-dir-list-item-content -->
+</li>
+<li class="non-sponsored">
+		<div class="pq-dir-list-item-content">
+    	<div class="col-md-4 col-sm-3 col-xs-3  no-padding-left">
+        	                <a href="https://poetsandquants.com/specialized-master/imperial-college-business-school-msc-international-health-management/?pq-directory-type=specialized-master" target="_blank"><img src="https://poetsandquants.com/wp-content/uploads/sites/5/2019/02/Imperial-MS-5-135x100.jpg" class="img-responsive wp-post-image" alt=""></a>
+                    </div>
+       <div class="col-md-8 col-sm-9 col-xs-9 no-padding-left">
+        				<div class="pq-dir-list-item-top">
+        		<h4><a href="https://poetsandquants.com/specialized-master/imperial-college-business-school-msc-international-health-management/?pq-directory-type=specialized-master" target="_blank">Imperial College Business School: MSc International Health Management</a></h4>
+				       				<p class="pq-dir-list-item-location">
+       					London, United Kingdom       				</p>
+							</div>	
+        	<!--<p><strong>Program Type</strong>: Healthcare Administration</p>-->
+            <p class="tuition"><strong>Cost of Tuition</strong>: £27,500</p>
+			
+						
+						
+        </div><!-- /.pq-dir-list-item-right -->
+        <div class="clearfix"></div>
+	</div><!-- /.pq-dir-list-item-content -->
+</li>
+<li class="non-sponsored">
+		<div class="pq-dir-list-item-content">
+    	<div class="col-md-4 col-sm-3 col-xs-3  no-padding-left">
+        	                <a href="https://poetsandquants.com/specialized-master/baruch-colleges-zicklin-school-business-ms-marketing/?pq-directory-type=specialized-master" target="_blank"><img src="https://poetsandquants.com/wp-content/uploads/sites/5/2016/05/Baruchx.jpg" class="img-responsive wp-post-image" alt="" srcset="https://poetsandquants.com/wp-content/uploads/sites/5/2016/05/Baruchx.jpg 550w, https://poetsandquants.com/wp-content/uploads/sites/5/2016/05/Baruchx-300x178.jpg 300w, https://poetsandquants.com/wp-content/uploads/sites/5/2016/05/Baruchx-101x60.jpg 101w, https://poetsandquants.com/wp-content/uploads/sites/5/2016/05/Baruchx-125x74.jpg 125w, https://poetsandquants.com/wp-content/uploads/sites/5/2016/05/Baruchx-150x89.jpg 150w, https://poetsandquants.com/wp-content/uploads/sites/5/2016/05/Baruchx-385x228.jpg 385w" sizes="(max-width: 135px) 100vw, 135px"></a>
+                    </div>
+       <div class="col-md-8 col-sm-9 col-xs-9 no-padding-left">
+        				<div class="pq-dir-list-item-top">
+        		<h4><a href="https://poetsandquants.com/specialized-master/baruch-colleges-zicklin-school-business-ms-marketing/?pq-directory-type=specialized-master" target="_blank">Baruch College’s Zicklin School of Business: MS in Marketing</a></h4>
+				       				<p class="pq-dir-list-item-location">
+       					New York, New York       				</p>
+							</div>	
+        	<!--<p><strong>Program Type</strong>: Marketing</p>-->
+            <p class="tuition"><strong>Cost of Tuition</strong>: $15,675</p>
+			
+						
+						
+        </div><!-- /.pq-dir-list-item-right -->
+        <div class="clearfix"></div>
+	</div><!-- /.pq-dir-list-item-content -->
+</li>
+<li class="non-sponsored">
+		<div class="pq-dir-list-item-content">
+    	<div class="col-md-4 col-sm-3 col-xs-3  no-padding-left">
+        	                <a href="https://poetsandquants.com/specialized-master/santa-clara-universitys-leavey-school-of-business-ms-in-finance-2/?pq-directory-type=specialized-master" target="_blank"><img src="https://poetsandquants.com/wp-content/uploads/sites/5/2017/08/Entrance_leaveys-135x100.jpg" class="img-responsive wp-post-image" alt=""></a>
+                    </div>
+       <div class="col-md-8 col-sm-9 col-xs-9 no-padding-left">
+        				<div class="pq-dir-list-item-top">
+        		<h4><a href="https://poetsandquants.com/specialized-master/santa-clara-universitys-leavey-school-of-business-ms-in-finance-2/?pq-directory-type=specialized-master" target="_blank">Santa Clara University’s Leavey School of Business: MS in Finance</a></h4>
+				       				<p class="pq-dir-list-item-location">
+       					Santa Clara, California       				</p>
+							</div>	
+        	<!--<p><strong>Program Type</strong>: Finance</p>-->
+            <p class="tuition"><strong>Cost of Tuition</strong>: $57, 575</p>
+			
+						
+						
+        </div><!-- /.pq-dir-list-item-right -->
+        <div class="clearfix"></div>
+	</div><!-- /.pq-dir-list-item-content -->
+</li>
+        </ul>
+	<div id="programs-pagination" style="display:none;" data-rand="1377740715"></div>
+	<div class="wp-pagenavi" role="navigation">
+<span class="pages">Page 1 of 57</span><span aria-current="page" class="current">1</span><a class="page larger" title="Page 2" href="https://poetsandquants.com/wp-admin/admin-ajax.php?paged=2">2</a><a class="page larger" title="Page 3" href="https://poetsandquants.com/wp-admin/admin-ajax.php?paged=3">3</a><a class="page larger" title="Page 4" href="https://poetsandquants.com/wp-admin/admin-ajax.php?paged=4">4</a><a class="page larger" title="Page 5" href="https://poetsandquants.com/wp-admin/admin-ajax.php?paged=5">5</a><span class="extend">...</span><a class="larger page" title="Page 10" href="https://poetsandquants.com/wp-admin/admin-ajax.php?paged=10">10</a><a class="larger page" title="Page 20" href="https://poetsandquants.com/wp-admin/admin-ajax.php?paged=20">20</a><a class="larger page" title="Page 30" href="https://poetsandquants.com/wp-admin/admin-ajax.php?paged=30">30</a><span class="extend">...</span><a class="nextpostslink" rel="next" href="https://poetsandquants.com/wp-admin/admin-ajax.php?paged=2">»</a><a class="last" href="https://poetsandquants.com/wp-admin/admin-ajax.php?paged=57">Last »</a>
+</div>
+    </div></div>
